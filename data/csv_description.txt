@@ -1,0 +1,27 @@
+- adults_per_app.csv: 
+% of U.S. adults who say they regularly get news on each social media site
+"Note: The other response option was “No, don’t regularly get news on this.” Only respondents who indicated that they use each site were asked if they regularly get news on it. ",,,,,,,,,,,,
+"Source: Survey of U.S. adults conducted Aug. 18-24, 2025 ."
+
+
+- demographics.csv: 
+Demographics and party identification of regular social media news consumers in the U.S.
+% of U.S. adults who say they regularly get news from each social media site
+"* Estimates for Asian adults are representative of English speakers only.
+Note: The other response option was “No, don’t regularly get news on this.” Only respondents who indicated that they use each site were asked if they regularly get news on it. Social media sites are shown left to right in descending order by the share of U.S. adults who regularly get news there. White, Black and Asian adults include those who report being only one race and are not Hispanic; Hispanic adults are of any race.                                                                                                                                                                                                                             "
+"Source: Survey of U.S. adults conducted Aug. 18-24, 2025."
+PEW RESEARCH CENTER
+
+
+- news_consumption_on_social_media: 
+News consumption on social media
+% of U.S. adults who say they get news from social media … 
+"Note: Respondents who did not answer are not shown. Respondents who do not use the internet did not receive this question; they are included with those who said “Never,” along with those who do not say they get news from digital devices."
+"Source: Survey of U.S adults conducted Aug. 18-24, 2025."
+PEW RESEARCH CENTER
+
+
+- news_per_app: 
+% of each social media site’s users who say they regularly get news there
+"Note: The other response option was “No, don’t regularly get news on this.” Only respondents who indicated that they use each site were asked if they regularly get news on it. Social media sites are shown left to right in descending order by the share of U.S. adults who regularly get news there. ",,,,,,,,,,,,
+"Source: Survey of U.S. adults conducted Aug. 18-24, 2025.",,,,,,,,,,,,
