@@ -30,8 +30,8 @@ The main notebook (`data_visualization.ipynb`) contains several interactive plot
 
 ## Project Structure
 
-`/data_visualization.ipynb`: **(Main File)** The Jupyter Notebook containing all data loading, processing, and interactive visualization code.
+- `/data_visualization.ipynb`: **(Main File)** The Jupyter Notebook containing all data loading, processing, and interactive visualization code.
 
-`/data/`: Folder containing the raw `.csv` data used in the analysis, sourced from the Pew Research Center.
+- `/data/`: Folder containing the raw `.csv` data used in the analysis, sourced from the Pew Research Center.
 
-`*.png`, `*.pdf`: Static images and exports providing a quick, non-interactive overview of the final results.
+- `*.png`, `*.pdf`: Static images and exports providing a quick, non-interactive overview of the final results.
